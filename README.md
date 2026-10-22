@@ -9,6 +9,12 @@
 
 ## Navigation & Master Documentation Index (Фаза 11)
 
+### 0. Технический Аудит и Отчёты Доставки
+* **[TECHNICAL_AUDIT_AND_DEFECTS.md](./TECHNICAL_AUDIT_AND_DEFECTS.md)** — Подтверждённые дефекты (B-01 аудио), гипотезы (RAM, draw calls, sticking) и реализованные Codex фичи.
+* **[TEAM_RESPONSIBILITIES_AND_STATUS.md](./TEAM_RESPONSIBILITIES_AND_STATUS.md)** — Чёткое разделение ответственности между Manus (UI/UX), Antigravity (Visual Assets) и Codex (Implementation/Engine/APK).
+* **[ACCEPTANCE_CRITERIA_AND_METRICS.md](./ACCEPTANCE_CRITERIA_AND_METRICS.md)** — Измеримые критерии приёмки и нормативные целевые профили производительности.
+* **[DELIVERY_AND_SUMMARY.md](./DELIVERY_AND_SUMMARY.md)** — Итоговый отчёт о передаче материалов (без сюжетных спойлеров) и подтверждение доступности файлов.
+
 ### 1. Фундамент и Архитектура 2.5D
 * **[PRODUCTION_BIBLE.md](./PRODUCTION_BIBLE.md)** — Единое видение игры, дизайн-столпы, коммерческий профиль Android и нарративные границы.
 * **[2_5D_TECHNICAL_ARCHITECTURE.md](./2_5D_TECHNICAL_ARCHITECTURE.md)** — Двухвариантная техническая архитектура 2.5D (Решение A: Псевдообъёмный 2D и Решение B: Гибридная 3D-сцена с 2D-логикой), описание слоя адаптеров `Adapter2DTo3D`, риски и регламент A/B бенчмаркинга.
